@@ -1,0 +1,8 @@
+fastapi
+typing
+requests
+uvicorn 
+python-dotenv
+sqlalchemy
+psycopg2-binary
+python-telegram-bot
